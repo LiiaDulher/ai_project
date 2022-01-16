@@ -1,5 +1,5 @@
 # AI project
-Authors(team): Liia Dulher, Halyna Koziak.
+Authors (team): [Halyna Koziak](https://github.com/hkoziak),  [Liia Dulher](https://github.com/LiiaDulher).
 
 ## Documentation
 todo: write this sector
